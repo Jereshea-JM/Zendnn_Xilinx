@@ -1,1 +1,1 @@
-# Zendnn_Xilinx
+# AMD_Xilinx
